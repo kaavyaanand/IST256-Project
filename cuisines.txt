@@ -1,0 +1,18 @@
+                                          Welcome to Cuisine Creator!                             
+                                                Pick a cuisine!
+                  African, American, British, Cajun, Caribbean, Chinese, Eastern European,
+                           European, French, German, Greek, Indian, Irish, Italian, 
+                      Japanese, Jewish, Korean, Latin American, Mediterranean, Mexican,
+                         Middle Eastern, Nordic, Southern, Spanish, Thai, Vietnamese
+
+                                                 Pick a diet!
+                            Gluten Free, Ketogenic, Vegetarian, Lacto-Vegetarian, 
+                          Ovo-Vegetarian, Vegan, Pescetarian, Paleo, Primal, Whole30, 
+                                                   or none
+                        
+                                              Pick an intolerance!
+                            Dairy, Egg, Gluten, Grain, Peanut, Seafood, Sesame, 
+                                Shellfish, Soy, Slufite, Tree Nut, Wheat,
+                                                    or none
+
+                                                 
